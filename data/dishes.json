@@ -1,0 +1,58 @@
+{
+    "soolane": {
+        "soups": [
+            "lillkapsa-kartuli püreesupp",
+            "läätsesupp"
+        ],
+        "salads": [
+            "kaalikasalat",
+            "riisisalat",
+            "peedi-oa salat"
+        ],
+        "meat": [
+            "tatar hakklihaga",
+            "kapsa-hakkliha hautis",
+            "kotletid kartulipüreega",
+            "hakklihakaste kartulipüreega",
+            "kodujuustu-kana pirukas",
+            "ahjukana"
+        ],
+        "pasta": [
+            "koorene kanapasta",
+            "singi-seene pasta",
+            "pesto-kikerherne pasta",
+            "pestoga kanapasta"
+        ],
+        "vegetarian": [
+            "kodujuustu-spinatipirukas",
+            "kartulivorm brokoli ja juustuga",
+            "ahjujuurviljad",
+            "läätsekaste",
+            "kikerherne-kookose karri"
+        ],
+        "other": [
+            "ahjukala"
+
+        ]
+    },
+    "magus": {
+        "icecream": [
+            "jäätis",
+            "jäätisekokteil"
+        ],
+        "salads": [
+            "puuviljasalat kohupiimaga"
+        ],
+        "cakes": [{
+                "õun": [
+                    "lihtne õunakook keefiriga",
+                    "Normandia õunakook"
+                ]
+            },
+            "poekook"
+        ],
+        "bread": [
+            "banaanileib"
+        ]
+    }
+}
